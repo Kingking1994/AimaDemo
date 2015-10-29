@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="AimaDemo"
+  id="myeclipse.1445701137622"
+  context-root="/AimaDemo"
+  j2ee-spec="5.0"
+  archive="AimaDemo.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
